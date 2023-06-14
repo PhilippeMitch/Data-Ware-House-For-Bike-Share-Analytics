@@ -48,3 +48,7 @@ This will result in all four tables being represented as text files in Blob Stor
 
 ![](https://github.com/PhilippeMitch/Data-Ware-House-For-Bike-Share-Analytics/blob/main/images/EXTRACT%20the%20data%20from%20PostgreSQL%20-4.jpg)
 
+## LOAD the data into external tables in the data warehouse
+Use the script-generating function from the data lake node to load the data from blob storage into external staging tables in the data warehouse that have been created using the serverless SQL Pool.
+
+![]()
